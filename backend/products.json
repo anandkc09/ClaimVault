@@ -1,0 +1,132 @@
+[
+  {
+    "productId": "PRD-2026-001",
+    "productName": "ghello",
+    "category": "Electronics",
+    "purchaseDate": "2026-09-29",
+    "warrantyEndDate": "2026-10-02",
+    "price": 0,
+    "description": "Brand: fgtnfg | Invoice: fgngn",
+    "createdAt": "2026-10-05T14:51:21.386Z"
+  },
+  {
+    "productId": "PRD-2026-002",
+    "productName": "ghello",
+    "category": "Electronics",
+    "purchaseDate": "2026-09-29",
+    "warrantyEndDate": "2026-10-02",
+    "price": 0,
+    "description": "Brand: fgtnfg | Invoice: fgngn",
+    "createdAt": "2026-10-05T14:52:36.803Z"
+  },
+  {
+    "productId": "PRD-2026-003",
+    "productName": "nijj",
+    "category": "Laptop",
+    "purchaseDate": "2026-03-31",
+    "warrantyEndDate": "2026-03-25",
+    "price": 0,
+    "description": "Brand: fgtnfg | Invoice: fgngn",
+    "createdAt": "2026-10-05T15:13:26.857Z"
+  },
+  {
+    "productId": "PRD-2026-004",
+    "productName": "anand",
+    "category": "Audio",
+    "purchaseDate": "2026-01-01",
+    "warrantyEndDate": "2028-04-01",
+    "price": 0,
+    "description": "Brand: fgtnfg | Invoice: fgngn",
+    "createdAt": "2026-10-05T16:22:56.220Z"
+  },
+  {
+    "productId": "PRD-2026-005",
+    "productName": "test 5",
+    "category": "Others",
+    "purchaseDate": "2025-12-01",
+    "warrantyEndDate": "2026-11-07",
+    "price": 0,
+    "description": "Brand: bmw | Invoice: 1234567890",
+    "createdAt": "2026-10-05T17:30:43.758Z"
+  },
+  {
+    "productId": "PRD-2026-006",
+    "productName": "test6",
+    "category": "Electronics",
+    "purchaseDate": "2026-10-05",
+    "warrantyEndDate": "2027-01-01",
+    "price": 0,
+    "description": "Brand: bmw 1 | Invoice: 987654321",
+    "createdAt": "2026-10-05T18:00:08.533Z"
+  },
+  {
+    "productId": "PRD-2026-007",
+    "productName": "test7",
+    "category": "Electronics",
+    "purchaseDate": "2026-10-05",
+    "warrantyEndDate": "2027-01-01",
+    "price": 0,
+    "description": "Brand: bmw 1 | Invoice: 987654321",
+    "createdAt": "2026-10-05T18:18:00.907Z"
+  },
+  {
+    "productId": "PRD-2026-008",
+    "productName": "test7",
+    "category": "Electronics",
+    "purchaseDate": "2026-10-05",
+    "warrantyEndDate": "2027-01-01",
+    "price": 0,
+    "description": "Brand: bmw 1 | Invoice: 987654321",
+    "createdAt": "2026-10-05T18:19:56.224Z"
+  },
+  {
+    "productId": "PRD-2026-009",
+    "productName": "test7",
+    "category": "Smartphone",
+    "purchaseDate": "2026-10-05",
+    "warrantyEndDate": "2027-01-01",
+    "price": 0,
+    "description": "Brand: bmw 1 | Invoice: 987654321",
+    "createdAt": "2026-10-05T18:20:29.410Z"
+  },
+  {
+    "productId": "PRD-2026-010",
+    "productName": "test10",
+    "category": "Electronics",
+    "purchaseDate": "2026-10-05",
+    "warrantyEndDate": "2027-01-01",
+    "price": 0,
+    "description": "Brand: bmw 1 | Invoice: 987654321",
+    "createdAt": "2026-10-05T18:28:51.196Z"
+  },
+  {
+    "productId": "PRD-2026-011",
+    "productName": "test11",
+    "category": "Electronics",
+    "purchaseDate": "2026-10-05",
+    "warrantyEndDate": "2027-01-01",
+    "price": 0,
+    "description": "Brand: bmw 1 | Invoice: 987654321556568",
+    "createdAt": "2026-10-05T18:41:04.405Z"
+  },
+  {
+    "productId": "PRD-2026-012",
+    "productName": "test12",
+    "category": "Electronics",
+    "purchaseDate": "2026-10-05",
+    "warrantyEndDate": "2027-01-01",
+    "price": 0,
+    "description": "Brand: bmw 1 | Invoice: 987654321556568",
+    "createdAt": "2026-10-05T18:46:20.185Z"
+  },
+  {
+    "productId": "PRD-2026-013",
+    "productName": "test13",
+    "category": "Smartphone",
+    "purchaseDate": "2026-10-05",
+    "warrantyEndDate": "2027-01-01",
+    "price": 0,
+    "description": "Brand: bmw 1 | Invoice: 987654321556568",
+    "createdAt": "2026-10-05T18:50:05.992Z"
+  }
+]

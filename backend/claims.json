@@ -1,0 +1,47 @@
+[
+  {
+    "claimId": "CLM-2026-001",
+    "claimType": "Health Insurance",
+    "amount": 12500,
+    "dateOfIncident": "2026-09-12",
+    "description": "Medical treatment for accident",
+    "status": "Pending",
+    "createdAt": "2026-10-05T12:11:31.811Z"
+  },
+  {
+    "claimId": "CLM-2026-002",
+    "claimType": "Health Insurance",
+    "amount": 5000,
+    "dateOfIncident": "2026-10-05",
+    "description": "Test claim from ClaimVault frontend",
+    "status": "Pending",
+    "createdAt": "2026-10-05T12:50:20.825Z"
+  },
+  {
+    "claimId": "CLM-2026-003",
+    "claimType": "Health Insurance",
+    "amount": 5000,
+    "dateOfIncident": "2026-10-05",
+    "description": "Test claim from ClaimVault frontend",
+    "status": "Pending",
+    "createdAt": "2026-10-05T12:52:00.276Z"
+  },
+  {
+    "claimId": "CLM-2026-004",
+    "claimType": "Health Insurance",
+    "amount": 5000,
+    "dateOfIncident": "2026-10-05",
+    "description": "Agar success popup aaye, uske baad browser mein ye kholo:",
+    "status": "Pending",
+    "createdAt": "2026-10-05T13:17:53.074Z"
+  },
+  {
+    "claimId": "CLM-2026-005",
+    "claimType": "new",
+    "amount": 26,
+    "dateOfIncident": "2026-10-01",
+    "description": "sfhjmhmjh",
+    "status": "Pending",
+    "createdAt": "2026-10-05T13:19:31.424Z"
+  }
+]
