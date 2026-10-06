@@ -1,0 +1,4 @@
+Today, we completed the deployment of ClaimVault – Warranty Manager. 
+The frontend was deployed using AWS Amplify, while the backend was deployed on AWS EC2.
+We also connected the backend with Amazon S3 for storing product images, invoices, and warranty documents. 
+Finally, we tested the frontend-backend connection and verified that the main features are working successfully.
