@@ -796,7 +796,7 @@ statusFilter.addEventListener(
 showDashboard();
 // ================= BACKEND CONNECTION =================
 
-const API_BASE_URL = "http://localhost:3000";
+const API_BASE_URL = "http://13.235.88.182:3000";
 
 async function testBackendConnection() {
     try {
