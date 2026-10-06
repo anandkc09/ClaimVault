@@ -1,2 +1,0 @@
-# ClaimVault
-Warranty Management System
