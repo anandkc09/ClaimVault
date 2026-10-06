@@ -796,8 +796,7 @@ statusFilter.addEventListener(
 showDashboard();
 // ================= BACKEND CONNECTION =================
 
-const API_BASE_URL = "http://13.235.88.182:3000";
-
+const API_BASE_URL = "https://opjn2tdccg.execute-api.ap-south-1.amazonaws.com";
 async function testBackendConnection() {
     try {
         const response = await fetch(`${API_BASE_URL}/api/claims`);
