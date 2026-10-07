@@ -105,3 +105,4 @@ The main features of ClaimVault have been implemented and the application has be
 ## Conclusion
 
 ClaimVault makes warranty management easier by keeping product information, warranty details, invoices, and claims in one place. The application is deployed using AWS services and can be further improved for real-world use.
+<img width="1536" height="1024" alt="ClaimVault Warranty Manager Architecture (1)" src="https://github.com/user-attachments/assets/304d761a-4990-4d02-9eaf-0472de9e0d84" />
